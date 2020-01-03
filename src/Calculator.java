@@ -48,9 +48,5 @@ public class Calculator {
         return Double.valueOf(elements.get(0));
 
     }
-
-    public static void main(String[] args) {
-        System.out.println(evaluate("10 * 5 / 5"));
-    }
-
+    
 }
