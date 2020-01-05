@@ -48,5 +48,5 @@ public class Calculator {
         return Double.valueOf(elements.get(0));
 
     }
-    
+
 }
